@@ -1,0 +1,22 @@
+section.product div.shop h1{
+    font-size: 2em;
+    color: rgb(4, 110, 151);
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+section.product div.shop p{
+    color: #888;
+    line-height: 1.8;
+    margin-bottom: 5%;
+}
+section.product{
+    width: 100%;
+    height: auto;
+    padding: 50px 0;
+}
+section.product img{
+    width: 100%;
+    height:300px;
+    padding-bottom: 2%;
+    border-radius: 50%;
+}

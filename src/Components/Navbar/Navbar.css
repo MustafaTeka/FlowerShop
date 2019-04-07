@@ -1,0 +1,25 @@
+nav.navbar.navbar-expand-md.navbar-light{
+    overflow: hidden;
+}
+nav.navbar.navbar-expand-md.navbar-light a.navbar-brand{
+    color: rgb(4, 110, 151);
+    font-size: 23px;
+    font-weight: bold;
+    text-transform: uppercase;
+    float: left;
+}
+
+
+
+nav.navbar.navbar-expand-md.navbar-light a.Link{
+    float: left;
+    padding-right: 10px;
+    color: rgba(0,0,0,.5);
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+nav.navbar.navbar-expand-md.navbar-light a.Link:hover{
+    color: rgb(4, 110, 151);
+    text-decoration: none;
+} 

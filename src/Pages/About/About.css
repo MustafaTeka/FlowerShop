@@ -1,0 +1,44 @@
+section.about{
+    width:100%;
+    height:auto;
+    padding:50px 0;
+    padding-top: 10%;
+}
+section.about div.shop h1 {
+    font-size: 2em;
+    color: rgb(4, 110, 151);
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+section.about div.shop p{
+    color: #888;
+    line-height: 1.8;
+    margin-bottom: 5%;
+}
+section.about img{
+    width: 100%;
+    margin-bottom: 2%;
+    border-radius: 40%;
+}
+section.about div.img{
+    background-image: url("https://images.pexels.com/photos/2059661/pexels-photo-2059661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940       ");
+    height: 520px;
+    background-size:cover ;
+    position: relative;
+    margin-bottom: 2%;
+    border-radius: 10%;
+}
+section.about div.img p{
+    position: absolute;
+    bottom: 0;
+    color: #DDD;
+    margin: 0;
+    font-size: 20px;
+    background: rgba(0,0,0,0.5);
+    padding: 20px;
+    border-radius: 30%;
+}
+section.about p.from{
+    font-weight: bold;
+    padding-top: 15%;
+}

@@ -1,0 +1,23 @@
+footer{
+    width: 100%;
+    height: auto;
+    padding: 40px 0;
+}
+footer p{
+    font-size: 20px;
+}
+footer i{
+
+    padding: 10px;
+    margin-right: .5%;
+    background: #999;
+    color: #fff;
+    border-radius: 50%;
+}
+footer p.myname{
+    color:rgb(4, 110, 151);
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-family: fantasy;
+
+}
